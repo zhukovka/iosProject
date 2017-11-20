@@ -516,6 +516,7 @@
 				BABCD85B1F45DF16004ED6AB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BABCD85C1F45DF16004ED6AB /* Build configuration list for PBXNativeTarget "OneTests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +525,7 @@
 				BABCD85E1F45DF16004ED6AB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BABCD85F1F45DF16004ED6AB /* Build configuration list for PBXNativeTarget "OneUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +534,7 @@
 				BABCD8611F45DF16004ED6AB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
